@@ -4,14 +4,14 @@ body {
   }
   
   h1 {
-    font-family: 'Poppins', sans-serif;
+    font-family:'Times New Roman', Times, serif;
     font-weight: 900;
     font-size: 4em;
     color: crimson;
   }
   
   h2 {
-    font-family: 'Poppins', sans-serif;
+    font-family:'Times New Roman', Times, serif;
     font-weight: 900;
     font-size: 2em;
     color: crimson;
@@ -19,7 +19,7 @@ body {
   
   
   p {
-    font-family: 'Poppins', sans-serif;
+    font-family:'Times New Roman', Times, serif;
     font-weight: 400;
     font-size: 1em;
     color: crimson;
@@ -71,14 +71,14 @@ body {
   }
   
   .caption {
-    font-family: 'Poppins', sans-serif;
+    font-family:'Times New Roman', Times, serif;
     font-weight: 400;
     font-size: 1em;
     color: crimson;
   }
   
   table {
-    font-family: 'Poppins', sans-serif;
+    font-family:'Times New Roman', Times, serif;
     border-collapse: collapse;
   }
   
