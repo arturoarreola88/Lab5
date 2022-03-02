@@ -100,18 +100,3 @@ body {
     border-left: none;
   }
   
-  .footer-image {
-    vertical-align:  center;
-  }
-  
-  .astro {
-    border: 1px dashed crimson;
-    border-radius: 10px;
-  }
-  
-  footer {
-    background-color: powderblue;
-    padding: 100px 0px 100px 0px;
-    border-top: 10px solid crimson;
-    text-align:  center;
-  }
